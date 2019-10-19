@@ -1,0 +1,971 @@
+"","country","units","scale","gdp","inflation_avgcp","inflation_eopcp","population","unemployment_rate","exports","imports"
+"1","Afghanistan","Index",NA,NA,NA,"116.557",NA,NA,NA,NA
+"2","Afghanistan","Percent change",NA,NA,"1.9",NA,NA,NA,"5.982","3.751"
+"3","Afghanistan","Percent of total labor force",NA,NA,NA,NA,NA,NA,NA,NA
+"4","Afghanistan","Persons","Millions",NA,NA,NA,"36.51",NA,NA,NA
+"5","Afghanistan","U.S. dollars","Billions","19.99",NA,NA,NA,NA,NA,NA
+"6","Albania","Index",NA,NA,NA,"108.215",NA,NA,NA,NA
+"7","Albania","Percent change",NA,NA,"1.999",NA,NA,NA,"4.927","5.194"
+"8","Albania","Percent of total labor force",NA,NA,NA,NA,NA,"13.719",NA,NA
+"9","Albania","Persons","Millions",NA,NA,NA,"2.87",NA,NA,NA
+"10","Albania","U.S. dollars","Billions","15.96",NA,NA,NA,NA,NA,NA
+"11","Algeria","Index",NA,NA,NA,"211.48",NA,NA,NA,NA
+"12","Algeria","Percent change",NA,NA,"5.6",NA,NA,NA,"4.547","8.646"
+"13","Algeria","Percent of total labor force",NA,NA,NA,NA,NA,"12.575",NA,NA
+"14","Algeria","Persons","Millions",NA,NA,NA,"43.427",NA,NA,NA
+"15","Algeria","U.S. dollars","Billions","183.687",NA,NA,NA,NA,NA,NA
+"16","Angola","Index",NA,NA,NA,"375.112",NA,NA,NA,NA
+"17","Angola","Percent change",NA,NA,"17.463",NA,NA,NA,"1.074","-9.463"
+"18","Angola","Percent of total labor force",NA,NA,NA,NA,NA,NA,NA,NA
+"19","Angola","Persons","Millions",NA,NA,NA,"30.128",NA,NA,NA
+"20","Angola","U.S. dollars","Billions","92.191",NA,NA,NA,NA,NA,NA
+"21","Antigua and Barbuda","Index",NA,NA,NA,"143.138",NA,NA,NA,NA
+"22","Antigua and Barbuda","Percent change",NA,NA,"1.97",NA,NA,NA,"5.923","6.078"
+"23","Antigua and Barbuda","Percent of total labor force",NA,NA,NA,NA,NA,NA,NA,NA
+"24","Antigua and Barbuda","Persons","Millions",NA,NA,NA,"0.093",NA,NA,NA
+"25","Antigua and Barbuda","U.S. dollars","Billions","1.717",NA,NA,NA,NA,NA,NA
+"26","Argentina","Index",NA,NA,NA,"450.443",NA,NA,NA,NA
+"27","Argentina","Percent change",NA,NA,"43.691",NA,NA,NA,"10.226","-8.877"
+"28","Argentina","Percent of total labor force",NA,NA,NA,NA,NA,"9.943",NA,NA
+"29","Argentina","Persons","Millions",NA,NA,NA,"45.052",NA,NA,NA
+"30","Argentina","U.S. dollars","Billions","477.743",NA,NA,NA,NA,NA,NA
+"31","Armenia","Index",NA,NA,NA,"297.897",NA,NA,NA,NA
+"32","Armenia","Percent change",NA,NA,"2.123",NA,NA,NA,"8.64","2.622"
+"33","Armenia","Percent of total labor force",NA,NA,NA,NA,NA,"17.912",NA,NA
+"34","Armenia","Persons","Millions",NA,NA,NA,"2.991",NA,NA,NA
+"35","Armenia","U.S. dollars","Billions","13.105",NA,NA,NA,NA,NA,NA
+"36","Aruba","Index",NA,NA,NA,"123.245",NA,NA,NA,NA
+"37","Aruba","Percent change",NA,NA,"1.377",NA,NA,NA,NA,NA
+"38","Aruba","Percent of total labor force",NA,NA,NA,NA,NA,"n/a",NA,NA
+"39","Aruba","Persons","Millions",NA,NA,NA,"0.112",NA,NA,NA
+"40","Aruba","U.S. dollars","Billions","2.875",NA,NA,NA,NA,NA,NA
+"41","Australia","Index",NA,NA,NA,"116.644",NA,NA,NA,NA
+"42","Australia","Percent change",NA,NA,"2.017",NA,NA,NA,"0.981","1.254"
+"43","Australia","Percent of total labor force",NA,NA,NA,NA,NA,"4.793",NA,NA
+"44","Australia","Persons","Millions",NA,NA,NA,"25.568",NA,NA,NA
+"45","Australia","U.S. dollars","Billions","1,417.00",NA,NA,NA,NA,NA,NA
+"46","Austria","Index",NA,NA,NA,"130.471",NA,NA,NA,NA
+"47","Austria","Percent change",NA,NA,"1.762",NA,NA,NA,"2.736","2.287"
+"48","Austria","Percent of total labor force",NA,NA,NA,NA,NA,"5.1",NA,NA
+"49","Austria","Persons","Millions",NA,NA,NA,"8.95",NA,NA,NA
+"50","Austria","U.S. dollars","Billions","459.589",NA,NA,NA,NA,NA,NA
+"51","Azerbaijan","Index",NA,NA,NA,"268.519",NA,NA,NA,NA
+"52","Azerbaijan","Percent change",NA,NA,"2.5",NA,NA,NA,"9.587","-2.22"
+"53","Azerbaijan","Percent of total labor force",NA,NA,NA,NA,NA,"4.993",NA,NA
+"54","Azerbaijan","Persons","Millions",NA,NA,NA,"10.059",NA,NA,NA
+"55","Azerbaijan","U.S. dollars","Billions","45.248",NA,NA,NA,NA,NA,NA
+"56","Bahrain","Index",NA,NA,NA,"135.812",NA,NA,NA,NA
+"57","Bahrain","Percent change",NA,NA,"3.3",NA,NA,NA,"2.871","0.556"
+"58","Bahrain","Percent of total labor force",NA,NA,NA,NA,NA,"3.949",NA,NA
+"59","Bahrain","Persons","Millions",NA,NA,NA,"1.511",NA,NA,NA
+"60","Bahrain","U.S. dollars","Billions","38.952",NA,NA,NA,NA,NA,NA
+"61","Bangladesh","Index",NA,NA,NA,"282.499",NA,NA,NA,NA
+"62","Bangladesh","Percent change",NA,NA,"5.378",NA,NA,NA,"8.07","5.219"
+"63","Bangladesh","Percent of total labor force",NA,NA,NA,NA,NA,NA,NA,NA
+"64","Bangladesh","Persons","Millions",NA,NA,NA,"166.586",NA,NA,NA
+"65","Bangladesh","U.S. dollars","Billions","314.656",NA,NA,NA,NA,NA,NA
+"66","Barbados","Index",NA,NA,NA,"187.682",NA,NA,NA,NA
+"67","Barbados","Percent change",NA,NA,"1.31",NA,NA,NA,"1.812","2.944"
+"68","Barbados","Percent of total labor force",NA,NA,NA,NA,NA,"10.425",NA,NA
+"69","Barbados","Persons","Millions",NA,NA,NA,"0.287",NA,NA,NA
+"70","Barbados","U.S. dollars","Billions","5.207",NA,NA,NA,NA,NA,NA
+"71","Belarus","Index",NA,NA,NA,"839.715",NA,NA,NA,NA
+"72","Belarus","Percent change",NA,NA,"4.97",NA,NA,NA,"0.012","-0.126"
+"73","Belarus","Percent of total labor force",NA,NA,NA,NA,NA,"0.768",NA,NA
+"74","Belarus","Persons","Millions",NA,NA,NA,"9.41",NA,NA,NA
+"75","Belarus","U.S. dollars","Billions","60.951",NA,NA,NA,NA,NA,NA
+"76","Belgium","Index",NA,NA,NA,"108.799",NA,NA,NA,NA
+"77","Belgium","Percent change",NA,NA,"1.93",NA,NA,NA,"2.827","2.9"
+"78","Belgium","Percent of total labor force",NA,NA,NA,NA,NA,"5.9",NA,NA
+"79","Belgium","Persons","Millions",NA,NA,NA,"11.47",NA,NA,NA
+"80","Belgium","U.S. dollars","Billions","531.813",NA,NA,NA,NA,NA,NA
+"81","Belize","Index",NA,NA,NA,"138.589",NA,NA,NA,NA
+"82","Belize","Percent change",NA,NA,"1.2",NA,NA,NA,"4.54","7.708"
+"83","Belize","Percent of total labor force",NA,NA,NA,NA,NA,"10.089",NA,NA
+"84","Belize","Persons","Millions",NA,NA,NA,"0.406",NA,NA,NA
+"85","Belize","U.S. dollars","Billions","1.997",NA,NA,NA,NA,NA,NA
+"86","Benin","Index",NA,NA,NA,"117.374",NA,NA,NA,NA
+"87","Benin","Percent change",NA,NA,"2.049",NA,NA,NA,"40.753","19.323"
+"88","Benin","Percent of total labor force",NA,NA,NA,NA,NA,NA,NA,NA
+"89","Benin","Persons","Millions",NA,NA,NA,"11.722",NA,NA,NA
+"90","Benin","U.S. dollars","Billions","11.184",NA,NA,NA,NA,NA,NA
+"91","Bhutan","Index",NA,NA,NA,"237.132",NA,NA,NA,NA
+"92","Bhutan","Percent change",NA,NA,"3.987",NA,NA,NA,"16.029","-8.346"
+"93","Bhutan","Percent of total labor force",NA,NA,NA,NA,NA,"3.2",NA,NA
+"94","Bhutan","Persons","Millions",NA,NA,NA,"0.83",NA,NA,NA
+"95","Bhutan","U.S. dollars","Billions","2.84",NA,NA,NA,NA,NA,NA
+"96","Bolivia","Index",NA,NA,NA,"105.864",NA,NA,NA,NA
+"97","Bolivia","Percent change",NA,NA,"2.302",NA,NA,NA,"9.239","8.086"
+"98","Bolivia","Percent of total labor force",NA,NA,NA,NA,NA,"4",NA,NA
+"99","Bolivia","Persons","Millions",NA,NA,NA,"11.428",NA,NA,NA
+"100","Bolivia","U.S. dollars","Billions","43.687",NA,NA,NA,NA,NA,NA
+"101","Bosnia and Herzegovina","Index",NA,NA,NA,"135.103",NA,NA,NA,NA
+"102","Bosnia and Herzegovina","Percent change",NA,NA,"1.467",NA,NA,NA,"3.57","4.097"
+"103","Bosnia and Herzegovina","Percent of total labor force",NA,NA,NA,NA,NA,"18",NA,NA
+"104","Bosnia and Herzegovina","Persons","Millions",NA,NA,NA,"3.502",NA,NA,NA
+"105","Bosnia and Herzegovina","U.S. dollars","Billions","20.152",NA,NA,NA,NA,NA,NA
+"106","Botswana","Index",NA,NA,NA,"337.367",NA,NA,NA,NA
+"107","Botswana","Percent change",NA,NA,"3.616",NA,NA,NA,"1.443","7.797"
+"108","Botswana","Percent of total labor force",NA,NA,NA,NA,NA,NA,NA,NA
+"109","Botswana","Persons","Millions",NA,NA,NA,"2.378",NA,NA,NA
+"110","Botswana","U.S. dollars","Billions","19.651",NA,NA,NA,NA,NA,NA
+"111","Brazil","Index",NA,NA,NA,"34,928,528,730,218.80",NA,NA,NA,NA
+"112","Brazil","Percent change",NA,NA,"3.563",NA,NA,NA,"4.207","12.734"
+"113","Brazil","Percent of total labor force",NA,NA,NA,NA,NA,"11.4",NA,NA
+"114","Brazil","Persons","Millions",NA,NA,NA,"209.791",NA,NA,NA
+"115","Brazil","U.S. dollars","Billions","1,960.19",NA,NA,NA,NA,NA,NA
+"116","Brunei Darussalam","Index",NA,NA,NA,"99.58",NA,NA,NA,NA
+"117","Brunei Darussalam","Percent change",NA,NA,"0.274",NA,NA,NA,"38.258","39.001"
+"118","Brunei Darussalam","Percent of total labor force",NA,NA,NA,NA,NA,"9.3",NA,NA
+"119","Brunei Darussalam","Persons","Millions",NA,NA,NA,"0.44",NA,NA,NA
+"120","Brunei Darussalam","U.S. dollars","Billions","13.325",NA,NA,NA,NA,NA,NA
+"121","Bulgaria","Index",NA,NA,NA,"105.481",NA,NA,NA,NA
+"122","Bulgaria","Percent change",NA,NA,"2.416",NA,NA,NA,"3.475","5.81"
+"123","Bulgaria","Percent of total labor force",NA,NA,NA,NA,NA,"5",NA,NA
+"124","Bulgaria","Persons","Millions",NA,NA,NA,"6.97",NA,NA,NA
+"125","Bulgaria","U.S. dollars","Billions","67.044",NA,NA,NA,NA,NA,NA
+"126","Burkina Faso","Index",NA,NA,NA,"113.315",NA,NA,NA,NA
+"127","Burkina Faso","Percent change",NA,NA,"2",NA,NA,NA,"14.377","2.834"
+"128","Burkina Faso","Percent of total labor force",NA,NA,NA,NA,NA,NA,NA,NA
+"129","Burkina Faso","Persons","Millions",NA,NA,NA,"19.996",NA,NA,NA
+"130","Burkina Faso","U.S. dollars","Billions","14.882",NA,NA,NA,NA,NA,NA
+"131","Burundi","Index",NA,NA,NA,"154.401",NA,NA,NA,NA
+"132","Burundi","Percent change",NA,NA,"7.315",NA,NA,NA,"4.976","0.88"
+"133","Burundi","Percent of total labor force",NA,NA,NA,NA,NA,NA,NA,NA
+"134","Burundi","Persons","Millions",NA,NA,NA,"11.529",NA,NA,NA
+"135","Burundi","U.S. dollars","Billions","3.573",NA,NA,NA,NA,NA,NA
+"136","C<U+0093>te d'Ivoire","Index",NA,NA,NA,"154.2",NA,NA,NA,NA
+"137","C<U+0093>te d'Ivoire","Percent change",NA,NA,"2",NA,NA,NA,"7.916","9.874"
+"138","C<U+0093>te d'Ivoire","Percent of total labor force",NA,NA,NA,NA,NA,NA,NA,NA
+"139","C<U+0093>te d'Ivoire","Persons","Millions",NA,NA,NA,"26.275",NA,NA,NA
+"140","C<U+0093>te d'Ivoire","U.S. dollars","Billions","45.252",NA,NA,NA,NA,NA,NA
+"141","Cabo Verde","Index",NA,NA,NA,"142.215",NA,NA,NA,NA
+"142","Cabo Verde","Percent change",NA,NA,"1.576",NA,NA,NA,"8.841","5.49"
+"143","Cabo Verde","Percent of total labor force",NA,NA,NA,NA,NA,"8.5",NA,NA
+"144","Cabo Verde","Persons","Millions",NA,NA,NA,"0.559",NA,NA,NA
+"145","Cabo Verde","U.S. dollars","Billions","2.042",NA,NA,NA,NA,NA,NA
+"146","Cambodia","Index",NA,NA,NA,"179.051",NA,NA,NA,NA
+"147","Cambodia","Percent change",NA,NA,"2.542",NA,NA,NA,"13.564","8.866"
+"148","Cambodia","Percent of total labor force",NA,NA,NA,NA,NA,NA,NA,NA
+"149","Cambodia","Persons","Millions",NA,NA,NA,"16.497",NA,NA,NA
+"150","Cambodia","U.S. dollars","Billions","26.979",NA,NA,NA,NA,NA,NA
+"151","Cameroon","Index",NA,NA,NA,"253.228",NA,NA,NA,NA
+"152","Cameroon","Percent change",NA,NA,"1.192",NA,NA,NA,"6.583","1.345"
+"153","Cameroon","Percent of total labor force",NA,NA,NA,NA,NA,NA,NA,NA
+"154","Cameroon","Persons","Millions",NA,NA,NA,"25.506",NA,NA,NA
+"155","Cameroon","U.S. dollars","Billions","39.219",NA,NA,NA,NA,NA,NA
+"156","Canada","Index",NA,NA,NA,"136.598",NA,NA,NA,NA
+"157","Canada","Percent change",NA,NA,"1.693",NA,NA,NA,"2.601","0.245"
+"158","Canada","Percent of total labor force",NA,NA,NA,NA,NA,"5.891",NA,NA
+"159","Canada","Persons","Millions",NA,NA,NA,"37.465",NA,NA,NA
+"160","Canada","U.S. dollars","Billions","1,739.11",NA,NA,NA,NA,NA,NA
+"161","Central African Republic","Index",NA,NA,NA,"214.198",NA,NA,NA,NA
+"162","Central African Republic","Percent change",NA,NA,"3",NA,NA,NA,"5.978","2.631"
+"163","Central African Republic","Percent of total labor force",NA,NA,NA,NA,NA,NA,NA,NA
+"164","Central African Republic","Persons","Millions",NA,NA,NA,"5.181",NA,NA,NA
+"165","Central African Republic","U.S. dollars","Billions","2.285",NA,NA,NA,NA,NA,NA
+"166","Chad","Index",NA,NA,NA,"142.977",NA,NA,NA,NA
+"167","Chad","Percent change",NA,NA,"2.892",NA,NA,NA,"11.145","-0.96"
+"168","Chad","Percent of total labor force",NA,NA,NA,NA,NA,NA,NA,NA
+"169","Chad","Persons","Millions",NA,NA,NA,"12.802",NA,NA,NA
+"170","Chad","U.S. dollars","Billions","11.372",NA,NA,NA,NA,NA,NA
+"171","Chile","Index",NA,NA,NA,"103.57",NA,NA,NA,NA
+"172","Chile","Percent change",NA,NA,"2.336",NA,NA,NA,"1.67","1.614"
+"173","Chile","Percent of total labor force",NA,NA,NA,NA,NA,"6.493",NA,NA
+"174","Chile","Persons","Millions",NA,NA,NA,"18.736",NA,NA,NA
+"175","Chile","U.S. dollars","Billions","295.614",NA,NA,NA,NA,NA,NA
+"176","China","Index",NA,NA,NA,"108.93",NA,NA,NA,NA
+"177","China","Percent change",NA,NA,"2.278",NA,NA,NA,"3.3","4.141"
+"178","China","Percent of total labor force",NA,NA,NA,NA,NA,"3.8",NA,NA
+"179","China","Persons","Millions",NA,NA,NA,"1,400.17",NA,NA,NA
+"180","China","U.S. dollars","Billions","14,216.50",NA,NA,NA,NA,NA,NA
+"181","Colombia","Index",NA,NA,NA,"103.943",NA,NA,NA,NA
+"182","Colombia","Percent change",NA,NA,"3.354",NA,NA,NA,"4.15","4.511"
+"183","Colombia","Percent of total labor force",NA,NA,NA,NA,NA,"9.7",NA,NA
+"184","Colombia","Persons","Millions",NA,NA,NA,"50.382",NA,NA,NA
+"185","Colombia","U.S. dollars","Billions","336.599",NA,NA,NA,NA,NA,NA
+"186","Comoros","Index",NA,NA,NA,"186.715",NA,NA,NA,NA
+"187","Comoros","Percent change",NA,NA,"2",NA,NA,NA,"4.107","5.169"
+"188","Comoros","Percent of total labor force",NA,NA,NA,NA,NA,NA,NA,NA
+"189","Comoros","Persons","Millions",NA,NA,NA,"0.872",NA,NA,NA
+"190","Comoros","U.S. dollars","Billions","0.726",NA,NA,NA,NA,NA,NA
+"191","Costa Rica","Index",NA,NA,NA,"107.853",NA,NA,NA,NA
+"192","Costa Rica","Percent change",NA,NA,"2.611",NA,NA,NA,"4.262","3.936"
+"193","Costa Rica","Percent of total labor force",NA,NA,NA,NA,NA,"9.659",NA,NA
+"194","Costa Rica","Persons","Millions",NA,NA,NA,"5.083",NA,NA,NA
+"195","Costa Rica","U.S. dollars","Billions","60.459",NA,NA,NA,NA,NA,NA
+"196","Croatia","Index",NA,NA,NA,"102.718",NA,NA,NA,NA
+"197","Croatia","Percent change",NA,NA,"1.475",NA,NA,NA,"6.13","6.882"
+"198","Croatia","Percent of total labor force",NA,NA,NA,NA,NA,"9",NA,NA
+"199","Croatia","Persons","Millions",NA,NA,NA,"4.067",NA,NA,NA
+"200","Croatia","U.S. dollars","Billions","61.252",NA,NA,NA,NA,NA,NA
+"201","Cyprus","Index",NA,NA,NA,"101.531",NA,NA,NA,NA
+"202","Cyprus","Percent change",NA,NA,"0.54",NA,NA,NA,"-1.36","0.221"
+"203","Cyprus","Percent of total labor force",NA,NA,NA,NA,NA,"7.009",NA,NA
+"204","Cyprus","Persons","Millions",NA,NA,NA,"0.87",NA,NA,NA
+"205","Cyprus","U.S. dollars","Billions","24.638",NA,NA,NA,NA,NA,NA
+"206","Czech Republic","Index",NA,NA,NA,"108.257",NA,NA,NA,NA
+"207","Czech Republic","Percent change",NA,NA,"2.324",NA,NA,NA,"3.72","5.194"
+"208","Czech Republic","Percent of total labor force",NA,NA,NA,NA,NA,"3.1",NA,NA
+"209","Czech Republic","Persons","Millions",NA,NA,NA,"10.606",NA,NA,NA
+"210","Czech Republic","U.S. dollars","Billions","246.161",NA,NA,NA,NA,NA,NA
+"211","Democratic Republic of the Congo","Index",NA,NA,NA,"2,655.46",NA,NA,NA,NA
+"212","Democratic Republic of the Congo","Percent change",NA,NA,"8.4",NA,NA,NA,"11.466","-5.012"
+"213","Democratic Republic of the Congo","Percent of total labor force",NA,NA,NA,NA,NA,NA,NA,NA
+"214","Democratic Republic of the Congo","Persons","Millions",NA,NA,NA,"97.879",NA,NA,NA
+"215","Democratic Republic of the Congo","U.S. dollars","Billions","48.458",NA,NA,NA,NA,NA,NA
+"216","Denmark","Index",NA,NA,NA,"103.173",NA,NA,NA,NA
+"217","Denmark","Percent change",NA,NA,"1.1",NA,NA,NA,"1.985","2.34"
+"218","Denmark","Percent of total labor force",NA,NA,NA,NA,NA,"4.858",NA,NA
+"219","Denmark","Persons","Millions",NA,NA,NA,"5.825",NA,NA,NA
+"220","Denmark","U.S. dollars","Billions","349.524",NA,NA,NA,NA,NA,NA
+"221","Djibouti","Index",NA,NA,NA,"105.792",NA,NA,NA,NA
+"222","Djibouti","Percent change",NA,NA,"0.789",NA,NA,NA,"3.987","6.156"
+"223","Djibouti","Percent of total labor force",NA,NA,NA,NA,NA,NA,NA,NA
+"224","Djibouti","Persons","Millions",NA,NA,NA,"1.078",NA,NA,NA
+"225","Djibouti","U.S. dollars","Billions","2.392",NA,NA,NA,NA,NA,NA
+"226","Dominica","Index",NA,NA,NA,"106.181",NA,NA,NA,NA
+"227","Dominica","Percent change",NA,NA,"1.607",NA,NA,NA,"36.667","-0.034"
+"228","Dominica","Percent of total labor force",NA,NA,NA,NA,NA,NA,NA,NA
+"229","Dominica","Persons","Millions",NA,NA,NA,"0.071",NA,NA,NA
+"230","Dominica","U.S. dollars","Billions","0.542",NA,NA,NA,NA,NA,NA
+"231","Dominican Republic","Index",NA,NA,NA,"134.385",NA,NA,NA,NA
+"232","Dominican Republic","Percent change",NA,NA,"1.359",NA,NA,NA,"2.463","4.794"
+"233","Dominican Republic","Percent of total labor force",NA,NA,NA,NA,NA,"5.2",NA,NA
+"234","Dominican Republic","Persons","Millions",NA,NA,NA,"10.374",NA,NA,NA
+"235","Dominican Republic","U.S. dollars","Billions","84.837",NA,NA,NA,NA,NA,NA
+"236","Ecuador","Index",NA,NA,NA,"105.848",NA,NA,NA,NA
+"237","Ecuador","Percent change",NA,NA,"0.577",NA,NA,NA,"8.161","-2.792"
+"238","Ecuador","Percent of total labor force",NA,NA,NA,NA,NA,"4.272",NA,NA
+"239","Ecuador","Persons","Millions",NA,NA,NA,"17.268",NA,NA,NA
+"240","Ecuador","U.S. dollars","Billions","106.289",NA,NA,NA,NA,NA,NA
+"241","Egypt","Index",NA,NA,NA,"606.731",NA,NA,NA,NA
+"242","Egypt","Percent change",NA,NA,"14.526",NA,NA,NA,"13.804","4.207"
+"243","Egypt","Percent of total labor force",NA,NA,NA,NA,NA,"9.594",NA,NA
+"244","Egypt","Persons","Millions",NA,NA,NA,"99.211",NA,NA,NA
+"245","Egypt","U.S. dollars","Billions","299.589",NA,NA,NA,NA,NA,NA
+"246","El Salvador","Index",NA,NA,NA,"113.872",NA,NA,NA,NA
+"247","El Salvador","Percent change",NA,NA,"0.647",NA,NA,NA,"2.537","3.433"
+"248","El Salvador","Percent of total labor force",NA,NA,NA,NA,NA,"6.702",NA,NA
+"249","El Salvador","Persons","Millions",NA,NA,NA,"6.701",NA,NA,NA
+"250","El Salvador","U.S. dollars","Billions","26.989",NA,NA,NA,NA,NA,NA
+"251","Equatorial Guinea","Index",NA,NA,NA,"220.428",NA,NA,NA,NA
+"252","Equatorial Guinea","Percent change",NA,NA,"2.596",NA,NA,NA,"-5.66","-18.052"
+"253","Equatorial Guinea","Percent of total labor force",NA,NA,NA,NA,NA,NA,NA,NA
+"254","Equatorial Guinea","Persons","Millions",NA,NA,NA,"1.36",NA,NA,NA
+"255","Equatorial Guinea","U.S. dollars","Billions","12.432",NA,NA,NA,NA,NA,NA
+"256","Eritrea","Index",NA,NA,NA,"1,070.88",NA,NA,NA,NA
+"257","Eritrea","Percent change",NA,NA,"9",NA,NA,NA,"-6.212","0.054"
+"258","Eritrea","Percent of total labor force",NA,NA,NA,NA,NA,NA,NA,NA
+"259","Eritrea","Persons","Millions",NA,NA,NA,"6.159",NA,NA,NA
+"260","Eritrea","U.S. dollars","Billions","7.718",NA,NA,NA,NA,NA,NA
+"261","Estonia","Index",NA,NA,NA,"111.899",NA,NA,NA,NA
+"262","Estonia","Percent change",NA,NA,"3",NA,NA,NA,"2.985","5.149"
+"263","Estonia","Percent of total labor force",NA,NA,NA,NA,NA,"4.693",NA,NA
+"264","Estonia","Persons","Millions",NA,NA,NA,"1.319",NA,NA,NA
+"265","Estonia","U.S. dollars","Billions","31.026",NA,NA,NA,NA,NA,NA
+"266","Eswatini","Index",NA,NA,NA,"348.228",NA,NA,NA,NA
+"267","Eswatini","Percent change",NA,NA,"5.626",NA,NA,NA,"-2.216","-1.25"
+"268","Eswatini","Percent of total labor force",NA,NA,NA,NA,NA,NA,NA,NA
+"269","Eswatini","Persons","Millions",NA,NA,NA,"1.109",NA,NA,NA
+"270","Eswatini","U.S. dollars","Billions","4.662",NA,NA,NA,NA,NA,NA
+"271","Ethiopia","Index",NA,NA,NA,"138.912",NA,NA,NA,NA
+"272","Ethiopia","Percent change",NA,NA,"9.271",NA,NA,NA,"14.765","9.592"
+"273","Ethiopia","Percent of total labor force",NA,NA,NA,NA,NA,NA,NA,NA
+"274","Ethiopia","Persons","Millions",NA,NA,NA,"95.644",NA,NA,NA
+"275","Ethiopia","U.S. dollars","Billions","90.968",NA,NA,NA,NA,NA,NA
+"276","Fiji","Index",NA,NA,NA,"126.891",NA,NA,NA,NA
+"277","Fiji","Percent change",NA,NA,"3.5",NA,NA,NA,NA,NA
+"278","Fiji","Percent of total labor force",NA,NA,NA,NA,NA,"4.5",NA,NA
+"279","Fiji","Persons","Millions",NA,NA,NA,"0.895",NA,NA,NA
+"280","Fiji","U.S. dollars","Billions","5.324",NA,NA,NA,NA,NA,NA
+"281","Finland","Index",NA,NA,NA,"104.418",NA,NA,NA,NA
+"282","Finland","Percent change",NA,NA,"1.327",NA,NA,NA,"3.266","2.999"
+"283","Finland","Percent of total labor force",NA,NA,NA,NA,NA,"7.184",NA,NA
+"284","Finland","Persons","Millions",NA,NA,NA,"5.543",NA,NA,NA
+"285","Finland","U.S. dollars","Billions","276.572",NA,NA,NA,NA,NA,NA
+"286","France","Index",NA,NA,NA,"105.516",NA,NA,NA,NA
+"287","France","Percent change",NA,NA,"1.323",NA,NA,NA,"3.597","2.534"
+"288","France","Percent of total labor force",NA,NA,NA,NA,NA,"8.823",NA,NA
+"289","France","Persons","Millions",NA,NA,NA,"65.021",NA,NA,NA
+"290","France","U.S. dollars","Billions","2,761.63",NA,NA,NA,NA,NA,NA
+"291","Gabon","Index",NA,NA,NA,"141.301",NA,NA,NA,NA
+"292","Gabon","Percent change",NA,NA,"3",NA,NA,NA,"14.437","-0.192"
+"293","Gabon","Percent of total labor force",NA,NA,NA,NA,NA,NA,NA,NA
+"294","Gabon","Persons","Millions",NA,NA,NA,"2.08",NA,NA,NA
+"295","Gabon","U.S. dollars","Billions","16.709",NA,NA,NA,NA,NA,NA
+"296","Georgia","Index",NA,NA,NA,"132.86",NA,NA,NA,NA
+"297","Georgia","Percent change",NA,NA,"2.513",NA,NA,NA,"8.695","11.134"
+"298","Georgia","Percent of total labor force",NA,NA,NA,NA,NA,"n/a",NA,NA
+"299","Georgia","Persons","Millions",NA,NA,NA,"3.693",NA,NA,NA
+"300","Georgia","U.S. dollars","Billions","17.214",NA,NA,NA,NA,NA,NA
+"301","Germany","Index",NA,NA,NA,"106.311",NA,NA,NA,NA
+"302","Germany","Percent change",NA,NA,"1.342",NA,NA,NA,"3.012","3.885"
+"303","Germany","Percent of total labor force",NA,NA,NA,NA,NA,"3.391",NA,NA
+"304","Germany","Persons","Millions",NA,NA,NA,"82.952",NA,NA,NA
+"305","Germany","U.S. dollars","Billions","3,963.88",NA,NA,NA,NA,NA,NA
+"306","Ghana","Index",NA,NA,NA,"246.422",NA,NA,NA,NA
+"307","Ghana","Percent change",NA,NA,"9.068",NA,NA,NA,"10.029","1.534"
+"308","Ghana","Percent of total labor force",NA,NA,NA,NA,NA,NA,NA,NA
+"309","Ghana","Persons","Millions",NA,NA,NA,"30.168",NA,NA,NA
+"310","Ghana","U.S. dollars","Billions","68.258",NA,NA,NA,NA,NA,NA
+"311","Greece","Index",NA,NA,NA,"119.456",NA,NA,NA,NA
+"312","Greece","Percent change",NA,NA,"1.055",NA,NA,NA,"5.681","5.158"
+"313","Greece","Percent of total labor force",NA,NA,NA,NA,NA,"18.463",NA,NA
+"314","Greece","Persons","Millions",NA,NA,NA,"10.682",NA,NA,NA
+"315","Greece","U.S. dollars","Billions","219.752",NA,NA,NA,NA,NA,NA
+"316","Grenada","Index",NA,NA,NA,"113.913",NA,NA,NA,NA
+"317","Grenada","Percent change",NA,NA,"1.684",NA,NA,NA,"4.359","6.892"
+"318","Grenada","Percent of total labor force",NA,NA,NA,NA,NA,NA,NA,NA
+"319","Grenada","Persons","Millions",NA,NA,NA,"0.109",NA,NA,NA
+"320","Grenada","U.S. dollars","Billions","1.272",NA,NA,NA,NA,NA,NA
+"321","Guatemala","Index",NA,NA,NA,"142.318",NA,NA,NA,NA
+"322","Guatemala","Percent change",NA,NA,"3.402",NA,NA,NA,"0.98","4.46"
+"323","Guatemala","Percent of total labor force",NA,NA,NA,NA,NA,NA,NA,NA
+"324","Guatemala","Persons","Millions",NA,NA,NA,"17.613",NA,NA,NA
+"325","Guatemala","U.S. dollars","Billions","82.335",NA,NA,NA,NA,NA,NA
+"326","Guinea","Index",NA,NA,NA,"1,912.74",NA,NA,NA,NA
+"327","Guinea","Percent change",NA,NA,"8.9",NA,NA,NA,"10.108","12.355"
+"328","Guinea","Percent of total labor force",NA,NA,NA,NA,NA,NA,NA,NA
+"329","Guinea","Persons","Millions",NA,NA,NA,"13.627",NA,NA,NA
+"330","Guinea","U.S. dollars","Billions","12.623",NA,NA,NA,NA,NA,NA
+"331","Guinea-Bissau","Index",NA,NA,NA,"117.831",NA,NA,NA,NA
+"332","Guinea-Bissau","Percent change",NA,NA,"2",NA,NA,NA,"-1.466","16.329"
+"333","Guinea-Bissau","Percent of total labor force",NA,NA,NA,NA,NA,NA,NA,NA
+"334","Guinea-Bissau","Persons","Millions",NA,NA,NA,"1.776",NA,NA,NA
+"335","Guinea-Bissau","U.S. dollars","Billions","1.538",NA,NA,NA,NA,NA,NA
+"336","Guyana","Index",NA,NA,NA,"121.277",NA,NA,NA,NA
+"337","Guyana","Percent change",NA,NA,"2.924",NA,NA,NA,"7.609","12.966"
+"338","Guyana","Percent of total labor force",NA,NA,NA,NA,NA,NA,NA,NA
+"339","Guyana","Persons","Millions",NA,NA,NA,"0.785",NA,NA,NA
+"340","Guyana","U.S. dollars","Billions","3.83",NA,NA,NA,NA,NA,NA
+"341","Haiti","Index",NA,NA,NA,"414.843",NA,NA,NA,NA
+"342","Haiti","Percent change",NA,NA,"14.944",NA,NA,NA,"2.449","3.171"
+"343","Haiti","Percent of total labor force",NA,NA,NA,NA,NA,NA,NA,NA
+"344","Haiti","Persons","Millions",NA,NA,NA,"11.248",NA,NA,NA
+"345","Haiti","U.S. dollars","Billions","9.602",NA,NA,NA,NA,NA,NA
+"346","Honduras","Index",NA,NA,NA,"338.542",NA,NA,NA,NA
+"347","Honduras","Percent change",NA,NA,"4.7",NA,NA,NA,"3.306","3.586"
+"348","Honduras","Percent of total labor force",NA,NA,NA,NA,NA,"3.355",NA,NA
+"349","Honduras","Persons","Millions",NA,NA,NA,"9.594",NA,NA,NA
+"350","Honduras","U.S. dollars","Billions","24.651",NA,NA,NA,NA,NA,NA
+"351","Hong Kong SAR","Index",NA,NA,NA,"112.585",NA,NA,NA,NA
+"352","Hong Kong SAR","Percent change",NA,NA,"2.4",NA,NA,NA,"2.334","2.469"
+"353","Hong Kong SAR","Percent of total labor force",NA,NA,NA,NA,NA,"2.809",NA,NA
+"354","Hong Kong SAR","Persons","Millions",NA,NA,NA,"7.553",NA,NA,NA
+"355","Hong Kong SAR","U.S. dollars","Billions","381.72",NA,NA,NA,NA,NA,NA
+"356","Hungary","Index",NA,NA,NA,"122.765",NA,NA,NA,NA
+"357","Hungary","Percent change",NA,NA,"3.233",NA,NA,NA,"3.958","7.395"
+"358","Hungary","Percent of total labor force",NA,NA,NA,NA,NA,"3.529",NA,NA
+"359","Hungary","Persons","Millions",NA,NA,NA,"9.758",NA,NA,NA
+"360","Hungary","U.S. dollars","Billions","168.778",NA,NA,NA,NA,NA,NA
+"361","Iceland","Index",NA,NA,NA,"266.678",NA,NA,NA,NA
+"362","Iceland","Percent change",NA,NA,"2.791",NA,NA,NA,"-0.426","3.794"
+"363","Iceland","Percent of total labor force",NA,NA,NA,NA,NA,"3.3",NA,NA
+"364","Iceland","Persons","Millions",NA,NA,NA,"0.357",NA,NA,NA
+"365","Iceland","U.S. dollars","Billions","24.544",NA,NA,NA,NA,NA,NA
+"366","India","Index",NA,NA,NA,"145.981",NA,NA,NA,NA
+"367","India","Percent change",NA,NA,"3.882",NA,NA,NA,"8","9.949"
+"368","India","Percent of total labor force",NA,NA,NA,NA,NA,NA,NA,NA
+"369","India","Persons","Millions",NA,NA,NA,"1,351.77",NA,NA,NA
+"370","India","U.S. dollars","Billions","2,972.00",NA,NA,NA,NA,NA,NA
+"371","Indonesia","Index",NA,NA,NA,"140.275",NA,NA,NA,NA
+"372","Indonesia","Percent change",NA,NA,"3.344",NA,NA,NA,"6.259","6.742"
+"373","Indonesia","Percent of total labor force",NA,NA,NA,NA,NA,"5.2",NA,NA
+"374","Indonesia","Persons","Millions",NA,NA,NA,"266.998",NA,NA,NA
+"375","Indonesia","U.S. dollars","Billions","1,100.91",NA,NA,NA,NA,NA,NA
+"376","Iraq","Index",NA,NA,NA,"124.53",NA,NA,NA,NA
+"377","Iraq","Percent change",NA,NA,"2",NA,NA,NA,NA,NA
+"378","Iraq","Percent of total labor force",NA,NA,NA,NA,NA,NA,NA,NA
+"379","Iraq","Persons","Millions",NA,NA,NA,"39.115",NA,NA,NA
+"380","Iraq","U.S. dollars","Billions","225.257",NA,NA,NA,NA,NA,NA
+"381","Ireland","Index",NA,NA,NA,"101.539",NA,NA,NA,NA
+"382","Ireland","Percent change",NA,NA,"1.2",NA,NA,NA,"4.569","4.45"
+"383","Ireland","Percent of total labor force",NA,NA,NA,NA,NA,"5.335",NA,NA
+"384","Ireland","Persons","Millions",NA,NA,NA,"4.961",NA,NA,NA
+"385","Ireland","U.S. dollars","Billions","381.571",NA,NA,NA,NA,NA,NA
+"386","Islamic Republic of Iran","Index",NA,NA,NA,"227.296",NA,NA,NA,NA
+"387","Islamic Republic of Iran","Percent change",NA,NA,"37.173",NA,NA,NA,"-22.597","-10.524"
+"388","Islamic Republic of Iran","Percent of total labor force",NA,NA,NA,NA,NA,"15.403",NA,NA
+"389","Islamic Republic of Iran","Persons","Millions",NA,NA,NA,"83.269",NA,NA,NA
+"390","Islamic Republic of Iran","U.S. dollars","Billions","484.663",NA,NA,NA,NA,NA,NA
+"391","Israel","Index",NA,NA,NA,"101.487",NA,NA,NA,NA
+"392","Israel","Percent change",NA,NA,"0.885",NA,NA,NA,"3.381","4.9"
+"393","Israel","Percent of total labor force",NA,NA,NA,NA,NA,"3.974",NA,NA
+"394","Israel","Persons","Millions",NA,NA,NA,"9.054",NA,NA,NA
+"395","Israel","U.S. dollars","Billions","381.569",NA,NA,NA,NA,NA,NA
+"396","Italy","Index",NA,NA,NA,"104.083",NA,NA,NA,NA
+"397","Italy","Percent change",NA,NA,"0.758",NA,NA,NA,"2.619","1.988"
+"398","Italy","Percent of total labor force",NA,NA,NA,NA,NA,"10.733",NA,NA
+"399","Italy","Persons","Millions",NA,NA,NA,"60.74",NA,NA,NA
+"400","Italy","U.S. dollars","Billions","2,025.87",NA,NA,NA,NA,NA,NA
+"401","Jamaica","Index",NA,NA,NA,"491.67",NA,NA,NA,NA
+"402","Jamaica","Percent change",NA,NA,"3.636",NA,NA,NA,"5.385","8.526"
+"403","Jamaica","Percent of total labor force",NA,NA,NA,NA,NA,"11.028",NA,NA
+"404","Jamaica","Persons","Millions",NA,NA,NA,"2.875",NA,NA,NA
+"405","Jamaica","U.S. dollars","Billions","16.152",NA,NA,NA,NA,NA,NA
+"406","Japan","Index",NA,NA,NA,"103.348",NA,NA,NA,NA
+"407","Japan","Percent change",NA,NA,"1.067",NA,NA,NA,"2.138","2.235"
+"408","Japan","Percent of total labor force",NA,NA,NA,NA,NA,"2.433",NA,NA
+"409","Japan","Persons","Millions",NA,NA,NA,"126.184",NA,NA,NA
+"410","Japan","U.S. dollars","Billions","5,176.21",NA,NA,NA,NA,NA,NA
+"411","Jordan","Index",NA,NA,NA,"128.378",NA,NA,NA,NA
+"412","Jordan","Percent change",NA,NA,"2.02",NA,NA,NA,"5.012","1.331"
+"413","Jordan","Percent of total labor force",NA,NA,NA,NA,NA,"n/a",NA,NA
+"414","Jordan","Persons","Millions",NA,NA,NA,"10.07",NA,NA,NA
+"415","Jordan","U.S. dollars","Billions","44.256",NA,NA,NA,NA,NA,NA
+"416","Kazakhstan","Index",NA,NA,NA,"441.082",NA,NA,NA,NA
+"417","Kazakhstan","Percent change",NA,NA,"5.464",NA,NA,NA,"3.26","3.175"
+"418","Kazakhstan","Percent of total labor force",NA,NA,NA,NA,NA,"4.951",NA,NA
+"419","Kazakhstan","Persons","Millions",NA,NA,NA,"18.737",NA,NA,NA
+"420","Kazakhstan","U.S. dollars","Billions","164.207",NA,NA,NA,NA,NA,NA
+"421","Kenya","Index",NA,NA,NA,"361.944",NA,NA,NA,NA
+"422","Kenya","Percent change",NA,NA,"4.404",NA,NA,NA,"9.996","9.64"
+"423","Kenya","Percent of total labor force",NA,NA,NA,NA,NA,NA,NA,NA
+"424","Kenya","Persons","Millions",NA,NA,NA,"49.364",NA,NA,NA
+"425","Kenya","U.S. dollars","Billions","99.246",NA,NA,NA,NA,NA,NA
+"426","Kiribati","Index",NA,NA,NA,"132.91",NA,NA,NA,NA
+"427","Kiribati","Percent change",NA,NA,"2.106",NA,NA,NA,"1.158","3.035"
+"428","Kiribati","Percent of total labor force",NA,NA,NA,NA,NA,NA,NA,NA
+"429","Kiribati","Persons","Millions",NA,NA,NA,"0.117",NA,NA,NA
+"430","Kiribati","U.S. dollars","Billions","0.187",NA,NA,NA,NA,NA,NA
+"431","Korea","Index",NA,NA,NA,"105.811",NA,NA,NA,NA
+"432","Korea","Percent change",NA,NA,"1.351",NA,NA,NA,"2.82","3.768"
+"433","Korea","Percent of total labor force",NA,NA,NA,NA,NA,"4",NA,NA
+"434","Korea","Persons","Millions",NA,NA,NA,"51.874",NA,NA,NA
+"435","Korea","U.S. dollars","Billions","1,656.67",NA,NA,NA,NA,NA,NA
+"436","Kosovo","Index",NA,NA,NA,"104.008",NA,NA,NA,NA
+"437","Kosovo","Percent change",NA,NA,"2.243",NA,NA,NA,"2.493","0.305"
+"438","Kosovo","Percent of total labor force",NA,NA,NA,NA,NA,"n/a",NA,NA
+"439","Kosovo","Persons","Millions",NA,NA,NA,"1.827",NA,NA,NA
+"440","Kosovo","U.S. dollars","Billions","8.126",NA,NA,NA,NA,NA,NA
+"441","Kuwait","Index",NA,NA,NA,"194.198",NA,NA,NA,NA
+"442","Kuwait","Percent change",NA,NA,"2.5",NA,NA,NA,"1.92","3.24"
+"443","Kuwait","Percent of total labor force",NA,NA,NA,NA,NA,"1.322",NA,NA
+"444","Kuwait","Persons","Millions",NA,NA,NA,"4.701",NA,NA,NA
+"445","Kuwait","U.S. dollars","Billions","136.94",NA,NA,NA,NA,NA,NA
+"446","Kyrgyz Republic","Index",NA,NA,NA,"162.009",NA,NA,NA,NA
+"447","Kyrgyz Republic","Percent change",NA,NA,"2.208",NA,NA,NA,"3.342","5.497"
+"448","Kyrgyz Republic","Percent of total labor force",NA,NA,NA,NA,NA,"6.799",NA,NA
+"449","Kyrgyz Republic","Persons","Millions",NA,NA,NA,"6.51",NA,NA,NA
+"450","Kyrgyz Republic","U.S. dollars","Billions","8.334",NA,NA,NA,NA,NA,NA
+"451","Lao P.D.R.","Index",NA,NA,NA,"107.179",NA,NA,NA,NA
+"452","Lao P.D.R.","Percent change",NA,NA,"3.1",NA,NA,NA,"5.979","6.107"
+"453","Lao P.D.R.","Percent of total labor force",NA,NA,NA,NA,NA,NA,NA,NA
+"454","Lao P.D.R.","Persons","Millions",NA,NA,NA,"6.874",NA,NA,NA
+"455","Lao P.D.R.","U.S. dollars","Billions","20.153",NA,NA,NA,NA,NA,NA
+"456","Latvia","Index",NA,NA,NA,"108.784",NA,NA,NA,NA
+"457","Latvia","Percent change",NA,NA,"2.427",NA,NA,NA,"1.2","3.1"
+"458","Latvia","Percent of total labor force",NA,NA,NA,NA,NA,"7.346",NA,NA
+"459","Latvia","Persons","Millions",NA,NA,NA,"1.929",NA,NA,NA
+"460","Latvia","U.S. dollars","Billions","35.721",NA,NA,NA,NA,NA,NA
+"461","Lebanon","Index",NA,NA,NA,"126.773",NA,NA,NA,NA
+"462","Lebanon","Percent change",NA,NA,"2.012",NA,NA,NA,"7.095","5.127"
+"463","Lebanon","Percent of total labor force",NA,NA,NA,NA,NA,NA,NA,NA
+"464","Lebanon","Persons","Millions",NA,NA,NA,"6.066",NA,NA,NA
+"465","Lebanon","U.S. dollars","Billions","58.281",NA,NA,NA,NA,NA,NA
+"466","Lesotho","Index",NA,NA,NA,"118.405",NA,NA,NA,NA
+"467","Lesotho","Percent change",NA,NA,"5.4",NA,NA,NA,"4.014","13.385"
+"468","Lesotho","Percent of total labor force",NA,NA,NA,NA,NA,NA,NA,NA
+"469","Lesotho","Persons","Millions",NA,NA,NA,"2.048",NA,NA,NA
+"470","Lesotho","U.S. dollars","Billions","2.811",NA,NA,NA,NA,NA,NA
+"471","Liberia","Index",NA,NA,NA,"778.567",NA,NA,NA,NA
+"472","Liberia","Percent change",NA,NA,"22.326",NA,NA,NA,"1.969","-4.414"
+"473","Liberia","Percent of total labor force",NA,NA,NA,NA,NA,NA,NA,NA
+"474","Liberia","Persons","Millions",NA,NA,NA,"4.578",NA,NA,NA
+"475","Liberia","U.S. dollars","Billions","3.221",NA,NA,NA,NA,NA,NA
+"476","Libya","Index",NA,NA,NA,"444.597",NA,NA,NA,NA
+"477","Libya","Percent change",NA,NA,"15",NA,NA,NA,"-23.087","-6.269"
+"478","Libya","Percent of total labor force",NA,NA,NA,NA,NA,NA,NA,NA
+"479","Libya","Persons","Millions",NA,NA,NA,"6.578",NA,NA,NA
+"480","Libya","U.S. dollars","Billions","44.964",NA,NA,NA,NA,NA,NA
+"481","Lithuania","Index",NA,NA,NA,"110.115",NA,NA,NA,NA
+"482","Lithuania","Percent change",NA,NA,"2.261",NA,NA,NA,"3.246","4.243"
+"483","Lithuania","Percent of total labor force",NA,NA,NA,NA,NA,"6.25",NA,NA
+"484","Lithuania","Persons","Millions",NA,NA,NA,"2.746",NA,NA,NA
+"485","Lithuania","U.S. dollars","Billions","54.24",NA,NA,NA,NA,NA,NA
+"486","Luxembourg","Index",NA,NA,NA,"106.884",NA,NA,NA,NA
+"487","Luxembourg","Percent change",NA,NA,"1.561",NA,NA,NA,"5.47","6.51"
+"488","Luxembourg","Percent of total labor force",NA,NA,NA,NA,NA,"5.001",NA,NA
+"489","Luxembourg","Persons","Millions",NA,NA,NA,"0.617",NA,NA,NA
+"490","Luxembourg","U.S. dollars","Billions","69.634",NA,NA,NA,NA,NA,NA
+"491","Macao SAR","Index",NA,NA,NA,"151.446",NA,NA,NA,NA
+"492","Macao SAR","Percent change",NA,NA,"2.5",NA,NA,NA,NA,NA
+"493","Macao SAR","Percent of total labor force",NA,NA,NA,NA,NA,"1.8",NA,NA
+"494","Macao SAR","Persons","Millions",NA,NA,NA,"0.672",NA,NA,NA
+"495","Macao SAR","U.S. dollars","Billions","58.055",NA,NA,NA,NA,NA,NA
+"496","Madagascar","Index",NA,NA,NA,"501.828",NA,NA,NA,NA
+"497","Madagascar","Percent change",NA,NA,"6.654",NA,NA,NA,"19.297","13.804"
+"498","Madagascar","Percent of total labor force",NA,NA,NA,NA,NA,NA,NA,NA
+"499","Madagascar","Persons","Millions",NA,NA,NA,"27.055",NA,NA,NA
+"500","Madagascar","U.S. dollars","Billions","12.734",NA,NA,NA,NA,NA,NA
+"501","Malawi","Index",NA,NA,NA,"119.049",NA,NA,NA,NA
+"502","Malawi","Percent change",NA,NA,"8.657",NA,NA,NA,"2.189","7.662"
+"503","Malawi","Percent of total labor force",NA,NA,NA,NA,NA,NA,NA,NA
+"504","Malawi","Persons","Millions",NA,NA,NA,"20.289",NA,NA,NA
+"505","Malawi","U.S. dollars","Billions","7.436",NA,NA,NA,NA,NA,NA
+"506","Malaysia","Index",NA,NA,NA,"123.966",NA,NA,NA,NA
+"507","Malaysia","Percent change",NA,NA,"2.001",NA,NA,NA,"3.775","3.551"
+"508","Malaysia","Percent of total labor force",NA,NA,NA,NA,NA,"3.325",NA,NA
+"509","Malaysia","Persons","Millions",NA,NA,NA,"32.801",NA,NA,NA
+"510","Malaysia","U.S. dollars","Billions","373.447",NA,NA,NA,NA,NA,NA
+"511","Maldives","Index",NA,NA,NA,"242.728",NA,NA,NA,NA
+"512","Maldives","Percent change",NA,NA,"2.213",NA,NA,NA,"6.741","0.316"
+"513","Maldives","Percent of total labor force",NA,NA,NA,NA,NA,NA,NA,NA
+"514","Maldives","Persons","Millions",NA,NA,NA,"0.372",NA,NA,NA
+"515","Maldives","U.S. dollars","Billions","5.749",NA,NA,NA,NA,NA,NA
+"516","Mali","Index",NA,NA,NA,"147.249",NA,NA,NA,NA
+"517","Mali","Percent change",NA,NA,"1.652",NA,NA,NA,"0.91","4.778"
+"518","Mali","Percent of total labor force",NA,NA,NA,NA,NA,NA,NA,NA
+"519","Mali","Persons","Millions",NA,NA,NA,"19.095",NA,NA,NA
+"520","Mali","U.S. dollars","Billions","17.833",NA,NA,NA,NA,NA,NA
+"521","Malta","Index",NA,NA,NA,"104.114",NA,NA,NA,NA
+"522","Malta","Percent change",NA,NA,"1.827",NA,NA,NA,"2.24","1.85"
+"523","Malta","Percent of total labor force",NA,NA,NA,NA,NA,"4.1",NA,NA
+"524","Malta","Persons","Millions",NA,NA,NA,"0.473",NA,NA,NA
+"525","Malta","U.S. dollars","Billions","15.134",NA,NA,NA,NA,NA,NA
+"526","Marshall Islands","Index",NA,NA,NA,"150.131",NA,NA,NA,NA
+"527","Marshall Islands","Percent change",NA,NA,"0.163",NA,NA,NA,"2.091",NA
+"528","Marshall Islands","Percent of total labor force",NA,NA,NA,NA,NA,NA,NA,NA
+"529","Marshall Islands","Persons","Millions",NA,NA,NA,"0.057",NA,NA,NA
+"530","Marshall Islands","U.S. dollars","Billions","0.22",NA,NA,NA,NA,NA,NA
+"531","Mauritania","Index",NA,NA,NA,"177.654",NA,NA,NA,NA
+"532","Mauritania","Percent change",NA,NA,"3.9",NA,NA,NA,"16.665","2.284"
+"533","Mauritania","Percent of total labor force",NA,NA,NA,NA,NA,NA,NA,NA
+"534","Mauritania","Persons","Millions",NA,NA,NA,"4.674",NA,NA,NA
+"535","Mauritania","U.S. dollars","Billions","5.569",NA,NA,NA,NA,NA,NA
+"536","Mauritius","Index",NA,NA,NA,"106.597",NA,NA,NA,NA
+"537","Mauritius","Percent change",NA,NA,"2.075",NA,NA,NA,"3.984","4.775"
+"538","Mauritius","Percent of total labor force",NA,NA,NA,NA,NA,"6.9",NA,NA
+"539","Mauritius","Persons","Millions",NA,NA,NA,"1.267",NA,NA,NA
+"540","Mauritius","U.S. dollars","Billions","14.812",NA,NA,NA,NA,NA,NA
+"541","Mexico","Index",NA,NA,NA,"106.193",NA,NA,NA,NA
+"542","Mexico","Percent change",NA,NA,"3.807",NA,NA,NA,"3.313","2.965"
+"543","Mexico","Percent of total labor force",NA,NA,NA,NA,NA,"3.485",NA,NA
+"544","Mexico","Persons","Millions",NA,NA,NA,"125.929",NA,NA,NA
+"545","Mexico","U.S. dollars","Billions","1,241.45",NA,NA,NA,NA,NA,NA
+"546","Micronesia","Index",NA,NA,NA,"134.796",NA,NA,NA,NA
+"547","Micronesia","Percent change",NA,NA,"2",NA,NA,NA,NA,NA
+"548","Micronesia","Percent of total labor force",NA,NA,NA,NA,NA,NA,NA,NA
+"549","Micronesia","Persons","Millions",NA,NA,NA,"0.102",NA,NA,NA
+"550","Micronesia","U.S. dollars","Billions","0.383",NA,NA,NA,NA,NA,NA
+"551","Moldova","Index",NA,NA,NA,"25,197.51",NA,NA,NA,NA
+"552","Moldova","Percent change",NA,NA,"3.321",NA,NA,NA,"6.5","8.977"
+"553","Moldova","Percent of total labor force",NA,NA,NA,NA,NA,"4.01",NA,NA
+"554","Moldova","Persons","Millions",NA,NA,NA,"3.542",NA,NA,NA
+"555","Moldova","U.S. dollars","Billions","12.037",NA,NA,NA,NA,NA,NA
+"556","Mongolia","Index",NA,NA,NA,"126.389",NA,NA,NA,NA
+"557","Mongolia","Percent change",NA,NA,"8.437",NA,NA,NA,"0.412","-4.354"
+"558","Mongolia","Percent of total labor force",NA,NA,NA,NA,NA,"9",NA,NA
+"559","Mongolia","Persons","Millions",NA,NA,NA,"3.3",NA,NA,NA
+"560","Mongolia","U.S. dollars","Billions","13.696",NA,NA,NA,NA,NA,NA
+"561","Montenegro","Index",NA,NA,NA,"282.043",NA,NA,NA,NA
+"562","Montenegro","Percent change",NA,NA,"0.947",NA,NA,NA,"2.726","2.296"
+"563","Montenegro","Percent of total labor force",NA,NA,NA,NA,NA,NA,NA,NA
+"564","Montenegro","Persons","Millions",NA,NA,NA,"0.625",NA,NA,NA
+"565","Montenegro","U.S. dollars","Billions","5.443",NA,NA,NA,NA,NA,NA
+"566","Morocco","Index",NA,NA,NA,"121.912",NA,NA,NA,NA
+"567","Morocco","Percent change",NA,NA,"1.4",NA,NA,NA,"4.556","4.414"
+"568","Morocco","Percent of total labor force",NA,NA,NA,NA,NA,"9.23",NA,NA
+"569","Morocco","Persons","Millions",NA,NA,NA,"35.587",NA,NA,NA
+"570","Morocco","U.S. dollars","Billions","121.35",NA,NA,NA,NA,NA,NA
+"571","Mozambique","Index",NA,NA,NA,"127.688",NA,NA,NA,NA
+"572","Mozambique","Percent change",NA,NA,"4.167",NA,NA,NA,"8.279","32.763"
+"573","Mozambique","Percent of total labor force",NA,NA,NA,NA,NA,NA,NA,NA
+"574","Mozambique","Persons","Millions",NA,NA,NA,"31.157",NA,NA,NA
+"575","Mozambique","U.S. dollars","Billions","15.372",NA,NA,NA,NA,NA,NA
+"576","Myanmar","Index",NA,NA,NA,"156.46",NA,NA,NA,NA
+"577","Myanmar","Percent change",NA,NA,"7.523",NA,NA,NA,"11.285","5.396"
+"578","Myanmar","Percent of total labor force",NA,NA,NA,NA,NA,"4",NA,NA
+"579","Myanmar","Persons","Millions",NA,NA,NA,"53.019",NA,NA,NA
+"580","Myanmar","U.S. dollars","Billions","65.665",NA,NA,NA,NA,NA,NA
+"581","Namibia","Index",NA,NA,NA,"142.062",NA,NA,NA,NA
+"582","Namibia","Percent change",NA,NA,"5.2",NA,NA,NA,"1.095","-0.238"
+"583","Namibia","Percent of total labor force",NA,NA,NA,NA,NA,NA,NA,NA
+"584","Namibia","Persons","Millions",NA,NA,NA,"2.46",NA,NA,NA
+"585","Namibia","U.S. dollars","Billions","13.961",NA,NA,NA,NA,NA,NA
+"586","Nauru","Index",NA,NA,NA,"127.95",NA,NA,NA,NA
+"587","Nauru","Percent change",NA,NA,"2.5",NA,NA,NA,NA,NA
+"588","Nauru","Percent of total labor force",NA,NA,NA,NA,NA,NA,NA,NA
+"589","Nauru","Persons","Millions",NA,NA,NA,"0.013",NA,NA,NA
+"590","Nauru","U.S. dollars","Billions","0.114",NA,NA,NA,NA,NA,NA
+"591","Nepal","Index",NA,NA,NA,"127.445",NA,NA,NA,NA
+"592","Nepal","Percent change",NA,NA,"4.898",NA,NA,NA,NA,NA
+"593","Nepal","Percent of total labor force",NA,NA,NA,NA,NA,NA,NA,NA
+"594","Nepal","Persons","Millions",NA,NA,NA,"29.96",NA,NA,NA
+"595","Nepal","U.S. dollars","Billions","28.922",NA,NA,NA,NA,NA,NA
+"596","Netherlands","Index",NA,NA,NA,"105.968",NA,NA,NA,NA
+"597","Netherlands","Percent change",NA,NA,"2.302",NA,NA,NA,"2.568","3.228"
+"598","Netherlands","Percent of total labor force",NA,NA,NA,NA,NA,"3.739",NA,NA
+"599","Netherlands","Persons","Millions",NA,NA,NA,"17.24",NA,NA,NA
+"600","Netherlands","U.S. dollars","Billions","914.003",NA,NA,NA,NA,NA,NA
+"601","New Zealand","Index",NA,NA,NA,"147.353",NA,NA,NA,NA
+"602","New Zealand","Percent change",NA,NA,"1.955",NA,NA,NA,"2.199","4.231"
+"603","New Zealand","Percent of total labor force",NA,NA,NA,NA,NA,"4.357",NA,NA
+"604","New Zealand","Persons","Millions",NA,NA,NA,"5.013",NA,NA,NA
+"605","New Zealand","U.S. dollars","Billions","210.475",NA,NA,NA,NA,NA,NA
+"606","Nicaragua","Index",NA,NA,NA,"231.172",NA,NA,NA,NA
+"607","Nicaragua","Percent change",NA,NA,"5.142",NA,NA,NA,"-9.85","-9.015"
+"608","Nicaragua","Percent of total labor force",NA,NA,NA,NA,NA,"23.408",NA,NA
+"609","Nicaragua","Persons","Millions",NA,NA,NA,"6.359",NA,NA,NA
+"610","Nicaragua","U.S. dollars","Billions","12.612",NA,NA,NA,NA,NA,NA
+"611","Niger","Index",NA,NA,NA,"115.931",NA,NA,NA,NA
+"612","Niger","Percent change",NA,NA,"2.4",NA,NA,NA,"10.526","18.77"
+"613","Niger","Percent of total labor force",NA,NA,NA,NA,NA,NA,NA,NA
+"614","Niger","Persons","Millions",NA,NA,NA,"19.939",NA,NA,NA
+"615","Niger","U.S. dollars","Billions","9.724",NA,NA,NA,NA,NA,NA
+"616","Nigeria","Index",NA,NA,NA,"307.678",NA,NA,NA,NA
+"617","Nigeria","Percent change",NA,NA,"11.701",NA,NA,NA,"4.973","12.506"
+"618","Nigeria","Percent of total labor force",NA,NA,NA,NA,NA,"n/a",NA,NA
+"619","Nigeria","Persons","Millions",NA,NA,NA,"199.206",NA,NA,NA
+"620","Nigeria","U.S. dollars","Billions","444.916",NA,NA,NA,NA,NA,NA
+"621","North Macedonia","Index",NA,NA,NA,"115.087",NA,NA,NA,NA
+"622","North Macedonia","Percent change",NA,NA,"1.796",NA,NA,NA,"11.307","9.532"
+"623","North Macedonia","Percent of total labor force",NA,NA,NA,NA,NA,"18.886",NA,NA
+"624","North Macedonia","Persons","Millions",NA,NA,NA,"2.079",NA,NA,NA
+"625","North Macedonia","U.S. dollars","Billions","12.884",NA,NA,NA,NA,NA,NA
+"626","Norway","Index",NA,NA,NA,"119.568",NA,NA,NA,NA
+"627","Norway","Percent change",NA,NA,"1.9",NA,NA,NA,"2.413","2.905"
+"628","Norway","Percent of total labor force",NA,NA,NA,NA,NA,"3.7",NA,NA
+"629","Norway","Persons","Millions",NA,NA,NA,"5.356",NA,NA,NA
+"630","Norway","U.S. dollars","Billions","427.041",NA,NA,NA,NA,NA,NA
+"631","Oman","Index",NA,NA,NA,"156.025",NA,NA,NA,NA
+"632","Oman","Percent change",NA,NA,"1.5",NA,NA,NA,"2.986","0.49"
+"633","Oman","Percent of total labor force",NA,NA,NA,NA,NA,NA,NA,NA
+"634","Oman","Persons","Millions",NA,NA,NA,"4.394",NA,NA,NA
+"635","Oman","U.S. dollars","Billions","79.458",NA,NA,NA,NA,NA,NA
+"636","Pakistan","Index",NA,NA,NA,"245.785",NA,NA,NA,NA
+"637","Pakistan","Percent change",NA,NA,"7.644",NA,NA,NA,"3.197","-3.961"
+"638","Pakistan","Percent of total labor force",NA,NA,NA,NA,NA,"6.14",NA,NA
+"639","Pakistan","Persons","Millions",NA,NA,NA,"204.729",NA,NA,NA
+"640","Pakistan","U.S. dollars","Billions","278.019",NA,NA,NA,NA,NA,NA
+"641","Palau","Index",NA,NA,NA,"128.547",NA,NA,NA,NA
+"642","Palau","Percent change",NA,NA,"2.35",NA,NA,NA,"6.353","3.944"
+"643","Palau","Percent of total labor force",NA,NA,NA,NA,NA,NA,NA,NA
+"644","Palau","Persons","Millions",NA,NA,NA,"0.019",NA,NA,NA
+"645","Palau","U.S. dollars","Billions","0.31",NA,NA,NA,NA,NA,NA
+"646","Panama","Index",NA,NA,NA,"106.235",NA,NA,NA,NA
+"647","Panama","Percent change",NA,NA,"1.5",NA,NA,NA,"6.589","2.683"
+"648","Panama","Percent of total labor force",NA,NA,NA,NA,NA,"6.115",NA,NA
+"649","Panama","Persons","Millions",NA,NA,NA,"4.219",NA,NA,NA
+"650","Panama","U.S. dollars","Billions","70.155",NA,NA,NA,NA,NA,NA
+"651","Papua New Guinea","Index",NA,NA,NA,"724.885",NA,NA,NA,NA
+"652","Papua New Guinea","Percent change",NA,NA,"4.3",NA,NA,NA,"11.614","16.324"
+"653","Papua New Guinea","Percent of total labor force",NA,NA,NA,NA,NA,NA,NA,NA
+"654","Papua New Guinea","Persons","Millions",NA,NA,NA,"8.601",NA,NA,NA
+"655","Papua New Guinea","U.S. dollars","Billions","21.453",NA,NA,NA,NA,NA,NA
+"656","Paraguay","Index",NA,NA,NA,"107.328",NA,NA,NA,NA
+"657","Paraguay","Percent change",NA,NA,"3.6",NA,NA,NA,"0.207","4.019"
+"658","Paraguay","Percent of total labor force",NA,NA,NA,NA,NA,"5.748",NA,NA
+"659","Paraguay","Persons","Millions",NA,NA,NA,"7.153",NA,NA,NA
+"660","Paraguay","U.S. dollars","Billions","42.352",NA,NA,NA,NA,NA,NA
+"661","Peru","Index",NA,NA,NA,"133.045",NA,NA,NA,NA
+"662","Peru","Percent change",NA,NA,"2.389",NA,NA,NA,"3.686","4.281"
+"663","Peru","Percent of total labor force",NA,NA,NA,NA,NA,"6.579",NA,NA
+"664","Peru","Persons","Millions",NA,NA,NA,"32.496",NA,NA,NA
+"665","Peru","U.S. dollars","Billions","232.08",NA,NA,NA,NA,NA,NA
+"666","Philippines","Index",NA,NA,NA,"123.062",NA,NA,NA,NA
+"667","Philippines","Percent change",NA,NA,"3.837",NA,NA,NA,"14.7","13.587"
+"668","Philippines","Percent of total labor force",NA,NA,NA,NA,NA,"5.475",NA,NA
+"669","Philippines","Persons","Millions",NA,NA,NA,"108.732",NA,NA,NA
+"670","Philippines","U.S. dollars","Billions","356.682",NA,NA,NA,NA,NA,NA
+"671","Poland","Index",NA,NA,NA,"174.908",NA,NA,NA,NA
+"672","Poland","Percent change",NA,NA,"1.96",NA,NA,NA,"5.164","6.597"
+"673","Poland","Percent of total labor force",NA,NA,NA,NA,NA,"3.578",NA,NA
+"674","Poland","Persons","Millions",NA,NA,NA,"37.959",NA,NA,NA
+"675","Poland","U.S. dollars","Billions","593.295",NA,NA,NA,NA,NA,NA
+"676","Portugal","Index",NA,NA,NA,"107.171",NA,NA,NA,NA
+"677","Portugal","Percent change",NA,NA,"1",NA,NA,NA,"4.129","5.229"
+"678","Portugal","Percent of total labor force",NA,NA,NA,NA,NA,"6.821",NA,NA
+"679","Portugal","Persons","Millions",NA,NA,NA,"10.273",NA,NA,NA
+"680","Portugal","U.S. dollars","Billions","239.473",NA,NA,NA,NA,NA,NA
+"681","Puerto Rico","Index",NA,NA,NA,"121.376",NA,NA,NA,NA
+"682","Puerto Rico","Percent change",NA,NA,"0.347",NA,NA,NA,NA,NA
+"683","Puerto Rico","Percent of total labor force",NA,NA,NA,NA,NA,"11",NA,NA
+"684","Puerto Rico","Persons","Millions",NA,NA,NA,"3.202",NA,NA,NA
+"685","Puerto Rico","U.S. dollars","Billions","103.506",NA,NA,NA,NA,NA,NA
+"686","Qatar","Index",NA,NA,NA,NA,NA,NA,NA,NA
+"687","Qatar","Percent change",NA,NA,"0.131",NA,NA,NA,"-1.157","2.065"
+"688","Qatar","Percent of total labor force",NA,NA,NA,NA,NA,NA,NA,NA
+"689","Qatar","Persons","Millions",NA,NA,NA,"2.753",NA,NA,NA
+"690","Qatar","U.S. dollars","Billions","193.502",NA,NA,NA,NA,NA,NA
+"691","Republic of Congo","Index",NA,NA,NA,"150.612",NA,NA,NA,NA
+"692","Republic of Congo","Percent change",NA,NA,"1.487",NA,NA,NA,"15.048","7.931"
+"693","Republic of Congo","Percent of total labor force",NA,NA,NA,NA,NA,NA,NA,NA
+"694","Republic of Congo","Persons","Millions",NA,NA,NA,"4.568",NA,NA,NA
+"695","Republic of Congo","U.S. dollars","Billions","11.162",NA,NA,NA,NA,NA,NA
+"696","Romania","Index",NA,NA,NA,"124.75",NA,NA,NA,NA
+"697","Romania","Percent change",NA,NA,"3.275",NA,NA,NA,"4.913","6.98"
+"698","Romania","Percent of total labor force",NA,NA,NA,NA,NA,"4.8",NA,NA
+"699","Romania","Persons","Millions",NA,NA,NA,"19.522",NA,NA,NA
+"700","Romania","U.S. dollars","Billions","244.158",NA,NA,NA,NA,NA,NA
+"701","Russia","Index",NA,NA,NA,"1,675.38",NA,NA,NA,NA
+"702","Russia","Percent change",NA,NA,"4.99",NA,NA,NA,"3.264","3.8"
+"703","Russia","Percent of total labor force",NA,NA,NA,NA,NA,"4.8",NA,NA
+"704","Russia","Persons","Millions",NA,NA,NA,"143.896",NA,NA,NA
+"705","Russia","U.S. dollars","Billions","1,610.38",NA,NA,NA,NA,NA,NA
+"706","Rwanda","Index",NA,NA,NA,"120.748",NA,NA,NA,NA
+"707","Rwanda","Percent change",NA,NA,"3.508",NA,NA,NA,"10.5","11.243"
+"708","Rwanda","Percent of total labor force",NA,NA,NA,NA,NA,NA,NA,NA
+"709","Rwanda","Persons","Millions",NA,NA,NA,"12.302",NA,NA,NA
+"710","Rwanda","U.S. dollars","Billions","10.211",NA,NA,NA,NA,NA,NA
+"711","S<c6>o Tom<U+0082> and Pr<U+00A1>ncipe","Index",NA,NA,NA,"131.782",NA,NA,NA,NA
+"712","S<c6>o Tom<U+0082> and Pr<U+00A1>ncipe","Percent change",NA,NA,"7.817",NA,NA,NA,"-1.715","3.282"
+"713","S<c6>o Tom<U+0082> and Pr<U+00A1>ncipe","Percent of total labor force",NA,NA,NA,NA,NA,"n/a",NA,NA
+"714","S<c6>o Tom<U+0082> and Pr<U+00A1>ncipe","Persons","Millions",NA,NA,NA,"0.222",NA,NA,NA
+"715","S<c6>o Tom<U+0082> and Pr<U+00A1>ncipe","U.S. dollars","Billions","0.477",NA,NA,NA,NA,NA,NA
+"716","Samoa","Index",NA,NA,NA,"123.777",NA,NA,NA,NA
+"717","Samoa","Percent change",NA,NA,"5.141",NA,NA,NA,NA,NA
+"718","Samoa","Percent of total labor force",NA,NA,NA,NA,NA,NA,NA,NA
+"719","Samoa","Persons","Millions",NA,NA,NA,"0.201",NA,NA,NA
+"720","Samoa","U.S. dollars","Billions","0.902",NA,NA,NA,NA,NA,NA
+"721","San Marino","Index",NA,NA,NA,"113.55",NA,NA,NA,NA
+"722","San Marino","Percent change",NA,NA,"1.636",NA,NA,NA,NA,NA
+"723","San Marino","Percent of total labor force",NA,NA,NA,NA,NA,"8.078",NA,NA
+"724","San Marino","Persons","Millions",NA,NA,NA,"0.034",NA,NA,NA
+"725","San Marino","U.S. dollars","Billions","1.62",NA,NA,NA,NA,NA,NA
+"726","Saudi Arabia","Index",NA,NA,NA,"106.008",NA,NA,NA,NA
+"727","Saudi Arabia","Percent change",NA,NA,"-0.7",NA,NA,NA,"0.753","3.429"
+"728","Saudi Arabia","Percent of total labor force",NA,NA,NA,NA,NA,"n/a",NA,NA
+"729","Saudi Arabia","Persons","Millions",NA,NA,NA,"33.867",NA,NA,NA
+"730","Saudi Arabia","U.S. dollars","Billions","762.259",NA,NA,NA,NA,NA,NA
+"731","Senegal","Index",NA,NA,NA,"107.751",NA,NA,NA,NA
+"732","Senegal","Percent change",NA,NA,"1.305",NA,NA,NA,"6.706","7.729"
+"733","Senegal","Percent of total labor force",NA,NA,NA,NA,NA,NA,NA,NA
+"734","Senegal","Persons","Millions",NA,NA,NA,"16.766",NA,NA,NA
+"735","Senegal","U.S. dollars","Billions","25.32",NA,NA,NA,NA,NA,NA
+"736","Serbia","Index",NA,NA,NA,"196.381",NA,NA,NA,NA
+"737","Serbia","Percent change",NA,NA,"2.006",NA,NA,NA,"6.61","6.789"
+"738","Serbia","Percent of total labor force",NA,NA,NA,NA,NA,"13.449",NA,NA
+"739","Serbia","Persons","Millions",NA,NA,NA,"6.965",NA,NA,NA
+"740","Serbia","U.S. dollars","Billions","52.424",NA,NA,NA,NA,NA,NA
+"741","Seychelles","Index",NA,NA,NA,"114.568",NA,NA,NA,NA
+"742","Seychelles","Percent change",NA,NA,"3.356",NA,NA,NA,"7.038","6.403"
+"743","Seychelles","Percent of total labor force",NA,NA,NA,NA,NA,"3",NA,NA
+"744","Seychelles","Persons","Millions",NA,NA,NA,"0.096",NA,NA,NA
+"745","Seychelles","U.S. dollars","Billions","1.654",NA,NA,NA,NA,NA,NA
+"746","Sierra Leone","Index",NA,NA,NA,"289.534",NA,NA,NA,NA
+"747","Sierra Leone","Percent change",NA,NA,"15.761",NA,NA,NA,"23.072","9.805"
+"748","Sierra Leone","Percent of total labor force",NA,NA,NA,NA,NA,NA,NA,NA
+"749","Sierra Leone","Persons","Millions",NA,NA,NA,"7.737",NA,NA,NA
+"750","Sierra Leone","U.S. dollars","Billions","3.998",NA,NA,NA,NA,NA,NA
+"751","Singapore","Index",NA,NA,NA,"101.634",NA,NA,NA,NA
+"752","Singapore","Percent change",NA,NA,"1.331",NA,NA,NA,"1.553","1.042"
+"753","Singapore","Percent of total labor force",NA,NA,NA,NA,NA,"2",NA,NA
+"754","Singapore","Persons","Millions",NA,NA,NA,"5.681",NA,NA,NA
+"755","Singapore","U.S. dollars","Billions","372.807",NA,NA,NA,NA,NA,NA
+"756","Slovak Republic","Index",NA,NA,NA,"106.217",NA,NA,NA,NA
+"757","Slovak Republic","Percent change",NA,NA,"2.397",NA,NA,NA,"5.737","5.077"
+"758","Slovak Republic","Percent of total labor force",NA,NA,NA,NA,NA,"6.1",NA,NA
+"759","Slovak Republic","Persons","Millions",NA,NA,NA,"5.451",NA,NA,NA
+"760","Slovak Republic","U.S. dollars","Billions","109.863",NA,NA,NA,NA,NA,NA
+"761","Slovenia","Index",NA,NA,NA,"105.109",NA,NA,NA,NA
+"762","Slovenia","Percent change",NA,NA,"1.381",NA,NA,NA,"5.194","7.94"
+"763","Slovenia","Percent of total labor force",NA,NA,NA,NA,NA,"4.812",NA,NA
+"764","Slovenia","Persons","Millions",NA,NA,NA,"2.069",NA,NA,NA
+"765","Slovenia","U.S. dollars","Billions","55.088",NA,NA,NA,NA,NA,NA
+"766","Solomon Islands","Index",NA,NA,NA,"200.131",NA,NA,NA,NA
+"767","Solomon Islands","Percent change",NA,NA,"1.655",NA,NA,NA,"3.111","8.525"
+"768","Solomon Islands","Percent of total labor force",NA,NA,NA,NA,NA,NA,NA,NA
+"769","Solomon Islands","Persons","Millions",NA,NA,NA,"0.641",NA,NA,NA
+"770","Solomon Islands","U.S. dollars","Billions","1.511",NA,NA,NA,NA,NA,NA
+"771","Somalia","Index",NA,NA,NA,"118.551",NA,NA,NA,NA
+"772","Somalia","Percent change",NA,NA,NA,NA,NA,NA,NA,NA
+"773","Somalia","Percent of total labor force",NA,NA,NA,NA,NA,NA,NA,NA
+"774","Somalia","Persons","Millions",NA,NA,NA,NA,NA,NA,NA
+"775","Somalia","U.S. dollars","Billions","7.903",NA,NA,NA,NA,NA,NA
+"776","South Africa","Index",NA,NA,NA,"116.172",NA,NA,NA,NA
+"777","South Africa","Percent change",NA,NA,"4.956",NA,NA,NA,"2.425","3.032"
+"778","South Africa","Percent of total labor force",NA,NA,NA,NA,NA,"27.527",NA,NA
+"779","South Africa","Persons","Millions",NA,NA,NA,"58.643",NA,NA,NA
+"780","South Africa","U.S. dollars","Billions","371.298",NA,NA,NA,NA,NA,NA
+"781","South Sudan","Index",NA,NA,NA,"8,571.09",NA,NA,NA,NA
+"782","South Sudan","Percent change",NA,NA,"24.467",NA,NA,NA,NA,NA
+"783","South Sudan","Percent of total labor force",NA,NA,NA,NA,NA,NA,NA,NA
+"784","South Sudan","Persons","Millions",NA,NA,NA,"13.378",NA,NA,NA
+"785","South Sudan","U.S. dollars","Billions","3.151",NA,NA,NA,NA,NA,NA
+"786","Spain","Index",NA,NA,NA,"105.808",NA,NA,NA,NA
+"787","Spain","Percent change",NA,NA,"1.211",NA,NA,NA,"2.519","2.714"
+"788","Spain","Percent of total labor force",NA,NA,NA,NA,NA,"14.249",NA,NA
+"789","Spain","Persons","Millions",NA,NA,NA,"46.656",NA,NA,NA
+"790","Spain","U.S. dollars","Billions","1,429.14",NA,NA,NA,NA,NA,NA
+"791","Sri Lanka","Index",NA,NA,NA,"131.984",NA,NA,NA,NA
+"792","Sri Lanka","Percent change",NA,NA,"4.5",NA,NA,NA,"4.72","6.106"
+"793","Sri Lanka","Percent of total labor force",NA,NA,NA,NA,NA,"4.4",NA,NA
+"794","Sri Lanka","Persons","Millions",NA,NA,NA,"21.934",NA,NA,NA
+"795","Sri Lanka","U.S. dollars","Billions","84.164",NA,NA,NA,NA,NA,NA
+"796","St. Kitts and Nevis","Index",NA,NA,NA,"107.417",NA,NA,NA,NA
+"797","St. Kitts and Nevis","Percent change",NA,NA,"-0.04",NA,NA,NA,"-2.436","6.858"
+"798","St. Kitts and Nevis","Percent of total labor force",NA,NA,NA,NA,NA,NA,NA,NA
+"799","St. Kitts and Nevis","Persons","Millions",NA,NA,NA,"0.057",NA,NA,NA
+"800","St. Kitts and Nevis","U.S. dollars","Billions","1.058",NA,NA,NA,NA,NA,NA
+"801","St. Lucia","Index",NA,NA,NA,"120.041",NA,NA,NA,NA
+"802","St. Lucia","Percent change",NA,NA,"1.919",NA,NA,NA,"3.309","8.014"
+"803","St. Lucia","Percent of total labor force",NA,NA,NA,NA,NA,NA,NA,NA
+"804","St. Lucia","Persons","Millions",NA,NA,NA,"0.178",NA,NA,NA
+"805","St. Lucia","U.S. dollars","Billions","1.971",NA,NA,NA,NA,NA,NA
+"806","St. Vincent and the Grenadines","Index",NA,NA,NA,"113.727",NA,NA,NA,NA
+"807","St. Vincent and the Grenadines","Percent change",NA,NA,"1.991",NA,NA,NA,"4.576","0.432"
+"808","St. Vincent and the Grenadines","Percent of total labor force",NA,NA,NA,NA,NA,NA,NA,NA
+"809","St. Vincent and the Grenadines","Persons","Millions",NA,NA,NA,"0.11",NA,NA,NA
+"810","St. Vincent and the Grenadines","U.S. dollars","Billions","0.864",NA,NA,NA,NA,NA,NA
+"811","Sudan","Index",NA,NA,NA,"2,327.23",NA,NA,NA,NA
+"812","Sudan","Percent change",NA,NA,"49.559",NA,NA,NA,"-3.312","-7.296"
+"813","Sudan","Percent of total labor force",NA,NA,NA,NA,NA,"21.4",NA,NA
+"814","Sudan","Persons","Millions",NA,NA,NA,"43.222",NA,NA,NA
+"815","Sudan","U.S. dollars","Billions","31.468",NA,NA,NA,NA,NA,NA
+"816","Suriname","Index",NA,NA,NA,"144.833",NA,NA,NA,NA
+"817","Suriname","Percent change",NA,NA,"5.408",NA,NA,NA,"1.326","4.776"
+"818","Suriname","Percent of total labor force",NA,NA,NA,NA,NA,"6.95",NA,NA
+"819","Suriname","Persons","Millions",NA,NA,NA,"0.598",NA,NA,NA
+"820","Suriname","U.S. dollars","Billions","3.683",NA,NA,NA,NA,NA,NA
+"821","Sweden","Index",NA,NA,NA,"107.37",NA,NA,NA,NA
+"822","Sweden","Percent change",NA,NA,"1.851",NA,NA,NA,"1.536","2.01"
+"823","Sweden","Percent of total labor force",NA,NA,NA,NA,NA,"6.254",NA,NA
+"824","Sweden","Persons","Millions",NA,NA,NA,"10.322",NA,NA,NA
+"825","Sweden","U.S. dollars","Billions","547.123",NA,NA,NA,NA,NA,NA
+"826","Switzerland","Index",NA,NA,NA,"102.736",NA,NA,NA,NA
+"827","Switzerland","Percent change",NA,NA,"0.835",NA,NA,NA,"1.689","2.426"
+"828","Switzerland","Percent of total labor force",NA,NA,NA,NA,NA,"2.819",NA,NA
+"829","Switzerland","Persons","Millions",NA,NA,NA,"8.586",NA,NA,NA
+"830","Switzerland","U.S. dollars","Billions","707.57",NA,NA,NA,NA,NA,NA
+"831","Syria","Index",NA,NA,NA,"n/a",NA,NA,NA,NA
+"832","Syria","Percent change",NA,NA,"n/a",NA,NA,NA,"n/a","n/a"
+"833","Syria","Percent of total labor force",NA,NA,NA,NA,NA,"n/a",NA,NA
+"834","Syria","Persons","Millions",NA,NA,NA,"n/a",NA,NA,NA
+"835","Syria","U.S. dollars","Billions","n/a",NA,NA,NA,NA,NA,NA
+"836","Taiwan Province of China","Index",NA,NA,NA,"102.314",NA,NA,NA,NA
+"837","Taiwan Province of China","Percent change",NA,NA,"1.145",NA,NA,NA,"1.078","-0.599"
+"838","Taiwan Province of China","Percent of total labor force",NA,NA,NA,NA,NA,"3.66",NA,NA
+"839","Taiwan Province of China","Persons","Millions",NA,NA,NA,"23.634",NA,NA,NA
+"840","Taiwan Province of China","U.S. dollars","Billions","601.431",NA,NA,NA,NA,NA,NA
+"841","Tajikistan","Index",NA,NA,NA,"1,066.79",NA,NA,NA,NA
+"842","Tajikistan","Percent change",NA,NA,"6.678",NA,NA,NA,"9.6","10.18"
+"843","Tajikistan","Percent of total labor force",NA,NA,NA,NA,NA,"n/a",NA,NA
+"844","Tajikistan","Persons","Millions",NA,NA,NA,"9.292",NA,NA,NA
+"845","Tajikistan","U.S. dollars","Billions","7.698",NA,NA,NA,NA,NA,NA
+"846","Tanzania","Index",NA,NA,NA,"355.173",NA,NA,NA,NA
+"847","Tanzania","Percent change",NA,NA,"3.465",NA,NA,NA,"5.898","7.116"
+"848","Tanzania","Percent of total labor force",NA,NA,NA,NA,NA,NA,NA,NA
+"849","Tanzania","Persons","Millions",NA,NA,NA,"52.067",NA,NA,NA
+"850","Tanzania","U.S. dollars","Billions","61.032",NA,NA,NA,NA,NA,NA
+"851","Thailand","Index",NA,NA,NA,"103.705",NA,NA,NA,NA
+"852","Thailand","Percent change",NA,NA,"0.983",NA,NA,NA,"4.356","6.464"
+"853","Thailand","Percent of total labor force",NA,NA,NA,NA,NA,"1.2",NA,NA
+"854","Thailand","Persons","Millions",NA,NA,NA,"67.913",NA,NA,NA
+"855","Thailand","U.S. dollars","Billions","516.662",NA,NA,NA,NA,NA,NA
+"856","The Bahamas","Index",NA,NA,NA,"109.452",NA,NA,NA,NA
+"857","The Bahamas","Percent change",NA,NA,"2.615",NA,NA,NA,"2.91","-0.203"
+"858","The Bahamas","Percent of total labor force",NA,NA,NA,NA,NA,"9.046",NA,NA
+"859","The Bahamas","Persons","Millions",NA,NA,NA,"0.381",NA,NA,NA
+"860","The Bahamas","U.S. dollars","Billions","13.262",NA,NA,NA,NA,NA,NA
+"861","The Gambia","Index",NA,NA,NA,"526.1",NA,NA,NA,NA
+"862","The Gambia","Percent change",NA,NA,"6.298",NA,NA,NA,"7.552","12.06"
+"863","The Gambia","Percent of total labor force",NA,NA,NA,NA,NA,NA,NA,NA
+"864","The Gambia","Persons","Millions",NA,NA,NA,"2.238",NA,NA,NA
+"865","The Gambia","U.S. dollars","Billions","1.741",NA,NA,NA,NA,NA,NA
+"866","Timor-Leste","Index",NA,NA,NA,"103.211",NA,NA,NA,NA
+"867","Timor-Leste","Percent change",NA,NA,"2.468",NA,NA,NA,NA,NA
+"868","Timor-Leste","Percent of total labor force",NA,NA,NA,NA,NA,NA,NA,NA
+"869","Timor-Leste","Persons","Millions",NA,NA,NA,"1.299",NA,NA,NA
+"870","Timor-Leste","U.S. dollars","Billions","3.145",NA,NA,NA,NA,NA,NA
+"871","Togo","Index",NA,NA,NA,"120.651",NA,NA,NA,NA
+"872","Togo","Percent change",NA,NA,"1.818",NA,NA,NA,"6.74","2.391"
+"873","Togo","Percent of total labor force",NA,NA,NA,NA,NA,NA,NA,NA
+"874","Togo","Persons","Millions",NA,NA,NA,"8.195",NA,NA,NA
+"875","Togo","U.S. dollars","Billions","5.592",NA,NA,NA,NA,NA,NA
+"876","Tonga","Index",NA,NA,NA,"133.868",NA,NA,NA,NA
+"877","Tonga","Percent change",NA,NA,"5.817",NA,NA,NA,"n/a","n/a"
+"878","Tonga","Percent of total labor force",NA,NA,NA,NA,NA,NA,NA,NA
+"879","Tonga","Persons","Millions",NA,NA,NA,"0.101",NA,NA,NA
+"880","Tonga","U.S. dollars","Billions","0.493",NA,NA,NA,NA,NA,NA
+"881","Trinidad and Tobago","Index",NA,NA,NA,"124.212",NA,NA,NA,NA
+"882","Trinidad and Tobago","Percent change",NA,NA,"1.137",NA,NA,NA,"-14.279","-6.907"
+"883","Trinidad and Tobago","Percent of total labor force",NA,NA,NA,NA,NA,"4.825",NA,NA
+"884","Trinidad and Tobago","Persons","Millions",NA,NA,NA,"1.381",NA,NA,NA
+"885","Trinidad and Tobago","U.S. dollars","Billions","22.438",NA,NA,NA,NA,NA,NA
+"886","Tunisia","Index",NA,NA,NA,"129.156",NA,NA,NA,NA
+"887","Tunisia","Percent change",NA,NA,"7.466",NA,NA,NA,"2.95","0.1"
+"888","Tunisia","Percent of total labor force",NA,NA,NA,NA,NA,"n/a",NA,NA
+"889","Tunisia","Persons","Millions",NA,NA,NA,"11.783",NA,NA,NA
+"890","Tunisia","U.S. dollars","Billions","36.204",NA,NA,NA,NA,NA,NA
+"891","Turkey","Index",NA,NA,NA,"454.931",NA,NA,NA,NA
+"892","Turkey","Percent change",NA,NA,"17.459",NA,NA,NA,"5","-7.197"
+"893","Turkey","Percent of total labor force",NA,NA,NA,NA,NA,"12.703",NA,NA
+"894","Turkey","Persons","Millions",NA,NA,NA,"83.023",NA,NA,NA
+"895","Turkey","U.S. dollars","Billions","706.237",NA,NA,NA,NA,NA,NA
+"896","Turkmenistan","Index",NA,NA,NA,"519.709",NA,NA,NA,NA
+"897","Turkmenistan","Percent change",NA,NA,"13",NA,NA,NA,"8.891","41.11"
+"898","Turkmenistan","Percent of total labor force",NA,NA,NA,NA,NA,NA,NA,NA
+"899","Turkmenistan","Persons","Millions",NA,NA,NA,"5.972",NA,NA,NA
+"900","Turkmenistan","U.S. dollars","Billions","50.346",NA,NA,NA,NA,NA,NA
+"901","Tuvalu","Index",NA,NA,NA,"169.624",NA,NA,NA,NA
+"902","Tuvalu","Percent change",NA,NA,"3.681",NA,NA,NA,NA,NA
+"903","Tuvalu","Percent of total labor force",NA,NA,NA,NA,NA,NA,NA,NA
+"904","Tuvalu","Persons","Millions",NA,NA,NA,"0.011",NA,NA,NA
+"905","Tuvalu","U.S. dollars","Billions","0.049",NA,NA,NA,NA,NA,NA
+"906","Uganda","Index",NA,NA,NA,"181.005",NA,NA,NA,NA
+"907","Uganda","Percent change",NA,NA,"3.6",NA,NA,NA,"7.531","9.854"
+"908","Uganda","Percent of total labor force",NA,NA,NA,NA,NA,NA,NA,NA
+"909","Uganda","Persons","Millions",NA,NA,NA,"40.007",NA,NA,NA
+"910","Uganda","U.S. dollars","Billions","30.368",NA,NA,NA,NA,NA,NA
+"911","Ukraine","Index",NA,NA,NA,"91,107,056.05",NA,NA,NA,NA
+"912","Ukraine","Percent change",NA,NA,"8.028",NA,NA,NA,"4.72","4.391"
+"913","Ukraine","Percent of total labor force",NA,NA,NA,NA,NA,"8.523",NA,NA
+"914","Ukraine","Persons","Millions",NA,NA,NA,"41.878",NA,NA,NA
+"915","Ukraine","U.S. dollars","Billions","134.887",NA,NA,NA,NA,NA,NA
+"916","United Arab Emirates","Index",NA,NA,NA,"287.897",NA,NA,NA,NA
+"917","United Arab Emirates","Percent change",NA,NA,"2.135",NA,NA,NA,"2.889","0.85"
+"918","United Arab Emirates","Percent of total labor force",NA,NA,NA,NA,NA,NA,NA,NA
+"919","United Arab Emirates","Persons","Millions",NA,NA,NA,"10.749",NA,NA,NA
+"920","United Arab Emirates","U.S. dollars","Billions","427.876",NA,NA,NA,NA,NA,NA
+"921","United Kingdom","Index",NA,NA,NA,"108.753",NA,NA,NA,NA
+"922","United Kingdom","Percent change",NA,NA,"1.837",NA,NA,NA,"2.448","3.148"
+"923","United Kingdom","Percent of total labor force",NA,NA,NA,NA,NA,"4.229",NA,NA
+"924","United Kingdom","Persons","Millions",NA,NA,NA,"66.867",NA,NA,NA
+"925","United Kingdom","U.S. dollars","Billions","2,829.16",NA,NA,NA,NA,NA,NA
+"926","United States","Index",NA,NA,NA,"259.918",NA,NA,NA,NA
+"927","United States","Percent change",NA,NA,"1.998",NA,NA,NA,"2.71","3.901"
+"928","United States","Percent of total labor force",NA,NA,NA,NA,NA,"3.788",NA,NA
+"929","United States","Persons","Millions",NA,NA,NA,"329.559",NA,NA,NA
+"930","United States","U.S. dollars","Billions","21,344.67",NA,NA,NA,NA,NA,NA
+"931","Uruguay","Index",NA,NA,NA,"200.617",NA,NA,NA,NA
+"932","Uruguay","Percent change",NA,NA,"7.633",NA,NA,NA,"-3.694","0.561"
+"933","Uruguay","Percent of total labor force",NA,NA,NA,NA,NA,"8.114",NA,NA
+"934","Uruguay","Persons","Millions",NA,NA,NA,"3.519",NA,NA,NA
+"935","Uruguay","U.S. dollars","Billions","60.231",NA,NA,NA,NA,NA,NA
+"936","Uzbekistan","Index",NA,NA,NA,"6,253.89",NA,NA,NA,NA
+"937","Uzbekistan","Percent change",NA,NA,"16.463",NA,NA,NA,"8.051","9.077"
+"938","Uzbekistan","Percent of total labor force",NA,NA,NA,NA,NA,NA,NA,NA
+"939","Uzbekistan","Persons","Millions",NA,NA,NA,"33.169",NA,NA,NA
+"940","Uzbekistan","U.S. dollars","Billions","49.199",NA,NA,NA,NA,NA,NA
+"941","Vanuatu","Index",NA,NA,NA,"160.858",NA,NA,NA,NA
+"942","Vanuatu","Percent change",NA,NA,"1.991",NA,NA,NA,NA,NA
+"943","Vanuatu","Percent of total labor force",NA,NA,NA,NA,NA,NA,NA,NA
+"944","Vanuatu","Persons","Millions",NA,NA,NA,"0.292",NA,NA,NA
+"945","Vanuatu","U.S. dollars","Billions","0.942",NA,NA,NA,NA,NA,NA
+"946","Venezuela","Index",NA,NA,NA,"143,656,399,082,390.00",NA,NA,NA,NA
+"947","Venezuela","Percent change",NA,NA,"10,000,000.00",NA,NA,NA,"-47.369","-57.365"
+"948","Venezuela","Percent of total labor force",NA,NA,NA,NA,NA,"44.337",NA,NA
+"949","Venezuela","Persons","Millions",NA,NA,NA,"28.067",NA,NA,NA
+"950","Venezuela","U.S. dollars","Billions","76.458",NA,NA,NA,NA,NA,NA
+"951","Vietnam","Index",NA,NA,NA,"276.736",NA,NA,NA,NA
+"952","Vietnam","Percent change",NA,NA,"3.091",NA,NA,NA,"12.852","13.254"
+"953","Vietnam","Percent of total labor force",NA,NA,NA,NA,NA,"2.21",NA,NA
+"954","Vietnam","Persons","Millions",NA,NA,NA,"95.494",NA,NA,NA
+"955","Vietnam","U.S. dollars","Billions","260.301",NA,NA,NA,NA,NA,NA
+"956","Yemen","Index",NA,NA,NA,"1,277.72",NA,NA,NA,NA
+"957","Yemen","Percent change",NA,NA,"20",NA,NA,NA,"11.934","-6.552"
+"958","Yemen","Percent of total labor force",NA,NA,NA,NA,NA,NA,NA,NA
+"959","Yemen","Persons","Millions",NA,NA,NA,"31.648",NA,NA,NA
+"960","Yemen","U.S. dollars","Billions","29.079",NA,NA,NA,NA,NA,NA
+"961","Zambia","Index",NA,NA,NA,"246.606",NA,NA,NA,NA
+"962","Zambia","Percent change",NA,NA,"10.75",NA,NA,NA,"10.105","2.054"
+"963","Zambia","Percent of total labor force",NA,NA,NA,NA,NA,NA,NA,NA
+"964","Zambia","Persons","Millions",NA,NA,NA,"18.321",NA,NA,NA
+"965","Zambia","U.S. dollars","Billions","24.615",NA,NA,NA,NA,NA,NA
+"966","Zimbabwe","Index",NA,NA,NA,"120.568",NA,NA,NA,NA
+"967","Zimbabwe","Percent change",NA,NA,"73.425",NA,NA,NA,NA,NA
+"968","Zimbabwe","Percent of total labor force",NA,NA,NA,NA,NA,NA,NA,NA
+"969","Zimbabwe","Persons","Millions",NA,NA,NA,"15.658",NA,NA,NA
+"970","Zimbabwe","U.S. dollars","Billions","22.29",NA,NA,NA,NA,NA,NA
